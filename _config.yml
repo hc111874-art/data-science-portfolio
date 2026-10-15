@@ -1,0 +1,5 @@
+title: CHEN YU Data Science Portfolio
+description: Reproducible data analysis and geospatial visualization by CHEN YU
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-github-metadata
